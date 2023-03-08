@@ -1,2 +1,2 @@
 # CS-Projects
-projects?
+python projects?
